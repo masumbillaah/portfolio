@@ -18,7 +18,7 @@ export default function Aboutme() {
         <br /> I am studding  Institute of science and Technology. <br />
         Department of Electronics & Communication Engineering.
       </p>
-      <LabTabs />
+      {/* <LabTabs /> */}
       <Footer />
     </div>
   );
