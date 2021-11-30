@@ -1,0 +1,16 @@
+.css-qivjh0-MuiStepLabel-label.Mui-active,
+.css-qivjh0-MuiStepLabel-label.Mui-completed,
+.css-qivjh0-MuiStepLabel-label {
+  color: #0dcaf0 !important;
+  font-weight: 600 !important;
+  font-family: poppins !important;
+  font-size: 20px !important;
+}
+.css-ahj2mt-MuiTypography-root {
+  font-family: poppins !important;
+  font-weight: normal;
+}
+.css-14yr603-MuiStepContent-root,
+.css-1mz1l2x-MuiStepContent-root {
+  padding-left: 40px !important;
+}

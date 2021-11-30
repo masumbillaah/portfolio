@@ -1,0 +1,10 @@
+.services .card {
+  box-shadow: 0px 0px 3px var(--primaryColor);
+  border-radius: 10px;
+  padding: 10px;
+  text-align: center;
+  transition: 0.4s;
+}
+.services .card:hover {
+  box-shadow: 0px 0px 10px var(--primaryColor);
+}

@@ -1,0 +1,21 @@
+.recent-work h2 {
+  color: rgb(253 180 17);
+  border-bottom: 1px solid yellow;
+  padding-bottom: 10px;
+  font-family: poppins;
+}
+.recent-work p {
+  font-family: poppins;
+  font-weight: 300;
+}
+.recent-work p span {
+  color: rgb(253 180 17);
+}
+.recent-work a.btn {
+  border: 2px solid green;
+  color: white;
+  transition: 0.5s;
+}
+.recent-work a.btn:hover {
+  background-color: green;
+}

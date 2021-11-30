@@ -1,0 +1,20 @@
+.Typewriter .Typewriter__wrapper span {
+  color: var(--secondaryColor);
+  font-weight: 600;
+  font-size: 30px;
+}
+.social a {
+  color: rgb(155, 183, 207);
+  margin: 0px 10px;
+  font-size: 25px;
+}
+.social a:first-child {
+  margin-left: 0px;
+}
+.social a i {
+  transition: 0.5s;
+}
+.social a:hover i {
+  transform: scale(1.5);
+  color: var(--primaryColor);
+}
