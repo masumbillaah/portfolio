@@ -1,3 +1,1 @@
-# Porifolio website link :  https://masumbillaah.netlify.app/
-
-# portfolio
+# Porifolio website live link :  https://masumbillaah.netlify.app/
